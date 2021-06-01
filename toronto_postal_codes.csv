@@ -1,4 +1,4 @@
-PostalCode,Borough,Neighbourhood
+PostalCode,Borough,Neighborhood
 M3A,North York,Parkwoods
 M4A,North York,Victoria Village
 M5A,Downtown Toronto,"Regent Park, Harbourfront"
@@ -34,7 +34,7 @@ M6H,West Toronto,"Dufferin, Dovercourt Village"
 M1J,Scarborough,Scarborough Village
 M2J,North York,"Fairview, Henry Farm, Oriole"
 M3J,North York,"Northwood Park, York University"
-M4J,East YorkEast Toronto,The Danforth  East
+M4J,East York/East Toronto,The Danforth  East
 M5J,Downtown Toronto,"Harbourfront East, Union Station, Toronto Islands"
 M6J,West Toronto,"Little Portugal, Trinity"
 M1K,Scarborough,"Kennedy Park, Ionview, East Birchmount Park"
@@ -75,7 +75,7 @@ M2R,North York,Willowdale
 M4R,Central Toronto,North Toronto West
 M5R,Central Toronto,"The Annex, North Midtown, Yorkville"
 M6R,West Toronto,"Parkdale, Roncesvalles"
-M7R,MississaugaCanada Post Gateway Processing Centre,Enclave of L4W
+M7R,Mississauga,Enclave of L4W
 M9R,Etobicoke,"Kingsview Village, St. Phillips, Martin Grove Gardens, Richview Gardens"
 M1S,Scarborough,Agincourt
 M4S,Central Toronto,Davisville
@@ -91,14 +91,14 @@ M8V,Etobicoke,"New Toronto, Mimico South, Humber Bay Shores"
 M9V,Etobicoke,"South Steeles, Silverstone, Humbergate, Jamestown, Mount Olive, Beaumond Heights, Thistletown, Albion Gardens"
 M1W,Scarborough,"Steeles West, L'Amoreaux West"
 M4W,Downtown Toronto,Rosedale
-M5W,Downtown TorontoStn A PO Boxes25 The Esplanade,Enclave of M5E
+M5W,Downtown Toronto Stn A,Enclave of M5E
 M8W,Etobicoke,"Alderwood, Long Branch"
-M9W,EtobicokeNorthwest,"Clairville, Humberwood, Woodbine Downs, West Humber, Kipling Heights, Rexdale, Elms, Tandridge, Old Rexdale"
+M9W,Etobicoke Northwest,"Clairville, Humberwood, Woodbine Downs, West Humber, Kipling Heights, Rexdale, Elms, Tandridge, Old Rexdale"
 M1X,Scarborough,Upper Rouge
 M4X,Downtown Toronto,"St. James Town, Cabbagetown"
 M5X,Downtown Toronto,"First Canadian Place, Underground city"
 M8X,Etobicoke,"The Kingsway, Montgomery Road, Old Mill North"
 M4Y,Downtown Toronto,Church and Wellesley
-M7Y,East TorontoBusiness reply mail Processing Centre969 Eastern,Enclave of M4L
+M7Y,East Toronto Business,Enclave of M4L
 M8Y,Etobicoke,"Old Mill South, King's Mill Park, Sunnylea, Humber Bay, Mimico NE, The Queensway East, Royal York South East, Kingsway Park South East"
 M8Z,Etobicoke,"Mimico NW, The Queensway West, South of Bloor, Kingsway Park South West, Royal York South West"
